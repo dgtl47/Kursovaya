@@ -1,0 +1,41 @@
+{
+	"usersArray":
+	[
+		{
+			"login": "user1",
+			"password": "46538859"
+		},
+		{
+			"login": "user2",
+			"password": "03857361"
+		},
+		{
+			"login": "user3",
+			"password": "44859251"
+		},
+		{
+			"login": "user4",
+			"password": "968746021"
+		},
+		{
+			"login": "user5",
+			"password": "465839021"
+		},
+		{
+			"login": "user6",
+			"password": "34352608"
+		},
+		{
+			"login": "user7",
+			"password": "46528104"
+		},
+		{
+			"login": "user8",
+			"password": "12475935"
+		},
+		{
+			"login": "user9",
+			"password": "48593649"
+		}
+	]
+}
